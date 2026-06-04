@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int findGCD(vector<int>& nums) {
+        //problem link- https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+        //Time complexity=  O(n)
+        //Space complexity= O(1)
+        int mx=*max_element(nums.begin(),nums.end());
+        int mn=*min_element(nums.begin(),nums.end());
+        //int gcd=1;
+        //most basic approach is written below; 
+        // for(int i=2;i<=min;i++){
+        //     if(max%i==0 && min%i==0){
+        //         gcd=i;
+        //     }
+        // }
+        //return gcd;
+        // we can skip these and insert a library called numeric and directly find gcd with function
+        return int(gcd(mx,mn));
+
+    }
+};
