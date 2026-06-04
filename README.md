@@ -95,9 +95,6 @@ Every solution contains:
 ## Platforms
 
 * LeetCode
-* GeeksforGeeks
-* Codeforces
-* Coding Ninjas
 
 ---
 
@@ -105,7 +102,7 @@ Every solution contains:
 
 | Topic               | Questions Solved |
 | ------------------- | ---------------- |
-| Arrays              | 0                |
+| Arrays              | 2                |
 | Strings             | 0                |
 | Linked List         | 0                |
 | Trees               | 0                |
