@@ -102,8 +102,8 @@ Every solution contains:
 
 | Topic               | Questions Solved |
 | ------------------- | ---------------- |
-| Arrays              | 2                |
-| Strings             | 0                |
+| Arrays              | 3                |
+| Strings             | 1                |
 | Linked List         | 0                |
 | Trees               | 0                |
 | Graphs              | 0                |
